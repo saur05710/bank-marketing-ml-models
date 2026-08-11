@@ -1,5 +1,3 @@
-# bank-marketing-ml-models
-Repo for different ML models
 # File: project-folder/README.md
 
 # Bank Marketing Term Deposit Classification Pipeline

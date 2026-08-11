@@ -1,0 +1,8 @@
+# File: project-folder/requirements.txt
+streamlit
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+joblib
