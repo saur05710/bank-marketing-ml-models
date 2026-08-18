@@ -4,7 +4,7 @@
 Direct marketing campaigns (phone calls) of a Portuguese banking institution aim to predict whether a client will subscribe to a term deposit (variable `y`: `yes` or `no`). Accurately identifying potential subscribers enables the institution to optimize marketing resource allocation, focus outreach efforts on high-probability leads, and improve conversion rates while maintaining low contact overhead.
 
 ## b. Dataset Description
-The dataset is derived from the UCI Bank Marketing repository (`https://archive.ics.uci.edu/dataset/222/bank+marketing`). Per requirements, a subset of exactly 20,000 entries was extracted and processed.
+The dataset is derived from the UCI Bank Marketing repository (`https://archive.ics.uci.edu/dataset/222/bank+marketing`).Appropriately 20,000 entries was extracted and processed.
 
 * **Total Records**: 20,000
 * **Features**: 16 input features (6 numerical, 9 categorical, 1 target)
